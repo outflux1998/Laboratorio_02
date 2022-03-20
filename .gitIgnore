@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+*.properties
+Implementação/aluguel-de-automoveis/.mvn/wrapper/maven-wrapper.jar
+Implementação/aluguel-de-automoveis/mvnw
+Implementação/aluguel-de-automoveis/mvnw.cmd
+Implementação/aluguel-de-automoveis/pom.xml
