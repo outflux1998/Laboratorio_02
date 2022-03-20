@@ -9,7 +9,7 @@
   - U1 Eu como Usuário gostaria editar Conta.
   - U2 Eu como Usuário gostaria ver Conta.
   - U3 Eu como Usuário gostaria logar em minha Conta.
-  - U4 Eu como Usuário gostaria de fazer logout em minha Conta.
+  - U4 Eu como Usuário gostaria de fazer deslogar em minha Conta.
   - C0 Eu como Cliente gostaria de adicionar informações de Cliente. (Endereço, Emprego).
   - C1 Eu como Cliente gostaria de fazer um Pedido de Aluguel.
   - C2 Eu como Cliente gostaria de editar um Pedido de Aluguel.
