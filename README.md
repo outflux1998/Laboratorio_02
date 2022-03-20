@@ -23,10 +23,10 @@
   - E2 Eu como Empresa gostaria de enviar Análise Pedido.
   - E3 Eu como Empresa gostaria de enviar Contrato assinado por mim.
   - B0 Eu como Banco gostaria de enviar a Análise Financeira.
-  - S0 O Sistema deve pedir Análise Financeira automaticamente.
+  
 ## Regras de Negócio
   - R0 O Sistema não pode permitir Cliente sem informações de Cliente a fazer um pedido
-  
+  - R1 O Sistema deve pedir Análise Financeira automaticamente.
 ## Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](./Projeto/Diagrama%20de%20Caso%20de%20Uso.png)
 
