@@ -1,4 +1,4 @@
-package com.test.alugueldeautomoveis.model.client;
+package com.lab.alugueldeautomoveis.model.client;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

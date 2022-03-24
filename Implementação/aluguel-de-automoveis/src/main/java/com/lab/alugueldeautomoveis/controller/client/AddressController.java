@@ -1,8 +1,8 @@
-package com.test.alugueldeautomoveis.controller.client;
+package com.lab.alugueldeautomoveis.controller.client;
 import java.util.List;
 
-import com.test.alugueldeautomoveis.model.client.Address;
-import com.test.alugueldeautomoveis.repository.AddressRepository;
+import com.lab.alugueldeautomoveis.model.client.Address;
+import com.lab.alugueldeautomoveis.repository.AddressRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
