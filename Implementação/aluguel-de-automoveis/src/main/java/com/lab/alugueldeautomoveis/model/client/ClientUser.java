@@ -1,4 +1,4 @@
-package com.test.alugueldeautomoveis.model.client;
+package com.lab.alugueldeautomoveis.model.client;
 
 import java.util.List;
 
@@ -12,7 +12,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
-import com.test.alugueldeautomoveis.model.User;
+import com.lab.alugueldeautomoveis.model.User;
 
 @Entity
 @Table(name = "tb_client_user")

@@ -1,4 +1,4 @@
-package com.test.alugueldeautomoveis;
+package com.lab.alugueldeautomoveis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

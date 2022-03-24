@@ -1,4 +1,4 @@
-package com.test.alugueldeautomoveis.model;
+package com.lab.alugueldeautomoveis.model;
 
 import javax.management.InvalidAttributeValueException;
 

@@ -1,6 +1,6 @@
-package com.test.alugueldeautomoveis.repository;
+package com.lab.alugueldeautomoveis.repository;
 
-import com.test.alugueldeautomoveis.model.client.Address;
+import com.lab.alugueldeautomoveis.model.client.Address;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
