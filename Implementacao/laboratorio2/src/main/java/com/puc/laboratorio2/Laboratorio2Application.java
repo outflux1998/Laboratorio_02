@@ -1,13 +1,13 @@
-package br.com.lab2.mvc.pv2;
+package com.puc.laboratorio2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Pv2Application {
+public class Laboratorio2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Pv2Application.class, args);
+		SpringApplication.run(Laboratorio2Application.class, args);
 	}
 
 }
